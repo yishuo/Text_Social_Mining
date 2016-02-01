@@ -21,5 +21,5 @@ We extracted 20 articles exemples from the data we extracted in the second step 
 <p><h6><a href="https://github.com/yishuo/Text_Social_Mining/blob/master/result.csv">result.csv:</a></h6>The result of the first step.</p>
 <p><h6><a href="https://github.com/yishuo/Text_Social_Mining/blob/master/table.csv">table.csv:</a></h6>The result of the directional graph.</p>
 <p><h6><a href="https://github.com/yishuo/Text_Social_Mining/blob/master/tableno.csv">tableno.csv:</a></h6>The result of the no directional graph.</p>
-<h6><a href="https://github.com/yishuo/Text_Social_Mining/blob/master/Projet_EGC_ZunzunWANG_YishuoLYU.pdf">Projet_EGC_ZunzunWANG_YishuoLYU.pdf:</a></h6><p>The report of this project.</p>
+<p><h6><a href="https://github.com/yishuo/Text_Social_Mining/blob/master/Projet_EGC_ZunzunWANG_YishuoLYU.pdf">Projet_EGC_ZunzunWANG_YishuoLYU.pdf:</a></h6>The report of this project.</p>
 
