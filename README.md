@@ -10,7 +10,7 @@
 
 <p><h5>Idea</h5>Here, we analysed the data from 'abstract' and just tested 20 articles.</p>
 
-<p>The description of every file is :</p>
+<h6>The description of every file is :</h6>
 <p><h6><a href="https://github.com/yishuo/Text_Social_Mining/blob/master/pretraitement_textMining.r">pretraitement_textMining.r:</a></h6>We extracted the data of 'abstract' from file.xlsx and preprocess teh data by Text mining (delete the whitespace, numbers and punctuation, Tolower,  stopwords and sparse etc.).</p>
 <p><h6><a href="https://github.com/yishuo/Text_Social_Mining/blob/master/socialMining.r">socialMining.r:</a></h6>
 We process the data that we extracted in the first step and find the multifrequence related words </p>
